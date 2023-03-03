@@ -1,8 +1,5 @@
 
 [![MasterHead](https://res.cloudinary.com/dbed2fwkj/image/upload/v1677835695/samples/PORTPOLIO%20IMAGES/Screenshot_2023-03-03_172656_jtv0o0.png)](https://leo.devatnight.com/)
-<h1 align="center">Hi 👋, I'm Leoncio Espiritu</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
-<img align = "right" alt="Coding" width="250" src="https://res.cloudinary.com/dbed2fwkj/image/upload/v1677835208/samples/PORTPOLIO%20IMAGES/my-picture_mq5sy7.png"/>
 
 - 🌱 I’m currently learning **Typescript, Redux, Nextjs, tailwind, materialUI**
 
