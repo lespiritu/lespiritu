@@ -1,13 +1,11 @@
 
 [![MasterHead](https://res.cloudinary.com/dbed2fwkj/image/upload/v1677835695/samples/PORTPOLIO%20IMAGES/Screenshot_2023-03-03_172656_jtv0o0.png)](https://leo.devatnight.com/)
 
-- 🌱 I’m currently learning **Typescript, Redux, Nextjs, tailwind, materialUI**
-
-- 👨‍💻 All of my projects are available at [https://leo.devatnight.com/](https://leo.devatnight.com/)
+- 👨‍💻 All of my projects are available at [https://leon-espiritu.netlify.app/)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **espirituleoncio@gmail.com**
+- 📫 How to reach me **espirituleoncio7@gmail.com**
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1s5E9deudqrhGrQxXraemvTaRIyFKq4Y9/edit">Resume</a> 
 
