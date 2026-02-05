@@ -1,9 +1,3 @@
-# Leoncio Espiritu – Full Stack Developer (MERN)
-
-Full Stack Developer with hands-on experience building web applications using MongoDB, Express.js, React.js, and Node.js. Career shifter with a strong foundation in JavaScript, REST APIs, and responsive UI development. Passionate about clean code, scalability, and continuous learning.
-
----
-
 <h2>Technical Skills</h2>
 
 <style>
@@ -72,47 +66,3 @@ Full Stack Developer with hands-on experience building web applications using Mo
   </div>
 
 </div>
-
----
-
-## Professional Summary
-
-- Full Stack Developer specializing in MERN stack development
-- Experience creating CRUD applications and REST APIs
-- Strong understanding of client-server architecture
-- Familiar with authentication, data validation, and API integration
-- Comfortable working with Git-based workflows
-- Open to Junior Full Stack Developer or Software Developer roles
-
----
-
-## Projects
-
-Real-world projects available in my GitHub repositories, including:
-- Full Stack MERN applications
-- REST API development
-- Authentication systems
-- CLI tools built with Node.js
-- Responsive frontend applications
-
-Each project follows clean folder structures, meaningful commits, and best practices.
-
----
-
-## Resume
-
-Download PDF Resume:
-[https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/Leoncio_Espiritu_Full_Stack_Developer.pdf](https://github.com/lespiritu/espirituleoncio7/blob/77b042514470f2db5eae6bf9cd2210379cfaab44/Leon_FullStackDeveloper_2026.pdf)
-
----
-
-## Links
-
-LinkedIn:
-[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/leoncio-espiritu-016707153/)
-
-Portfolio:
-[YOUR_PORTFOLIO_URL](https://leon-espiritu.netlify.app/)
-
-Email:
-espirituleoncio7@gmail.com
