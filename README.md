@@ -1,6 +1,6 @@
 <div align="center">
   <a href= "https://leoncio-espiritu.vercel.app/" target="_blank">
-  <img style= "width:100%" src="[https://res.cloudinary.com/dkknitt0j/image/upload/v1776929360/github-profile_l7uj7f.jpg](https://res.cloudinary.com/dkknitt0j/image/upload/v1776930430/github-profile1_ixh5zs.jpg)" alt="Leo Espiritu" width="220" />
+  <img style= "width:100%" src="https://res.cloudinary.com/dkknitt0j/image/upload/v1776929360/github-profile_l7uj7f.jpg" alt="Leo Espiritu" width="220" />
   </a>
 
 </div>
