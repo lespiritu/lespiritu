@@ -2,15 +2,8 @@
   <a href= "https://leoncio-espiritu.vercel.app/" target="_blank">
   <img style= "width:100%" src="https://res.cloudinary.com/dkknitt0j/image/upload/v1776929360/github-profile_l7uj7f.jpg" alt="Leo Espiritu" width="220" />
   </a>
-  <h1>Hi, I'm Leo Espiritu</h1>
-  <h3>Full Stack Developer | MERN Stack</h3>
+
 </div>
-
-## About Me
-
-I am a Full Stack Web Developer focused on building clean, responsive, and user-friendly web applications using the MERN stack. I enjoy turning ideas into practical digital solutions and creating experiences that are both functional and visually polished.
-
-With experience in frontend and backend development, I work on applications from interface design to API integration and database management. I am continuously improving my craft and looking for opportunities to contribute to professional development teams and real-world projects.
 
 ## Core Skills
 
